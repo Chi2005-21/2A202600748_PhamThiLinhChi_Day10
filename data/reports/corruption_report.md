@@ -1,4 +1,3 @@
-# Pham Thi Linh Chi
 # Corruption & Repair Comparison Report
 
 ## Overview
